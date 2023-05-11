@@ -1,3 +1,4 @@
+
 When I read press coverage of security products, they seem It's as if the choice to take an experimental medications was a tradeoff between preventing the harms of a disease vs. the inconvenience popping pills twice a day.
 
 The same was once true of industrial accidents, car accidents, and medicine.
