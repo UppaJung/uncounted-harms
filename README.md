@@ -1,6 +1,6 @@
 <!-- Hiding Harm -->
 <!-- # Security Products are Hazardous Products -->
-# Media Capture and the Hazards of Security Technologies and Products
+# Media Capture and the Hazards when Security Technologies Backfire
 
 When security tech backfires it can cause us devastating and irreparable harm. The same authentication measures that keep attackers out our online accounts can lock us out, effectively destroying decades of photos, correspondence, and records. When a phone requires a PIN to unlock a navigation app, or restore its access to location data, while we are driving on the highway, it creates the risk of a crash. Even temporary losses of access can cause permanent harm, such as we are prevented from accessing important medical data before emergency treatment, from reaching out to those we trust when we need them most, or from being reached by others when they need us most. The potential for harm from the technology that purports to protect us grows as we grow ever more reliant on technology to unlock the world around us and help us navigate it.
 
@@ -35,8 +35,7 @@ Though nearly all of us have suffered harm when security technologies backfire, 
 
 The unreported and uncounted harms are not unlike occupational deaths and injuries at the start of the industrial revolution, when the technological industrialists of the timed blamed these ‘accidents‘ on the victims (workers), when employers were not required to report them, and the media did not consider the individual deaths newsworthy. The harms that occur when security backfires are not unlike automotive deaths, which were initially unreported, uncounted, and which the media and technological industrialists of the time blamed on everyone but the cars they produced: initially drivers, until the bogeyman of the jaywalker was invented.
 
-We need investigators to surface the quantities money being transferred from the industry to news outlets.
+To address media capture, we need to learn to recognize it and help the public to recognize it, so that our societal immune systems can better target it. We need investigators with expertise in media and linguistic analysis to analyze the bias in coverage resulting from media capture, and we need investigators with expertise is financial forensics to uncover the quantities money being transferred from the industry to news outlets. In the long term, we may need to require companies to disclosed all such transfers.
 
-We need researchers to analyze the bias in coverage resulting from media capture.
+To ensure the harms caused when security technology backfires don't continue going uncounted, and are better addressed, we need to treat them like other hazardous products. We need researchers to measure the prevalence of harms and their impact, and aggregate those losses over the affected populations. We need investigators to continue to track losses longitudinally (over time) even though such work is harder to fund, publish, and attract media attention to. In the long-term, we may to require tech companies to track and report the harms when security backfires as they do when security is breached. More radically, we might even want to require certain classes to be independently tested for potential harms before deployment, as we do for other hazardous products.
 
-We need to academics, especially those working in security, to recognize media capture and call it out, so that our social immune system can target it.
