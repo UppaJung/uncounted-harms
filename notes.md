@@ -10,7 +10,7 @@ The same was once true of industrial accidents, car accidents, and medicine.
 [^cryptocurrency]: Notable exceptions are when cryptocurrency holders lose the keys to millions of dollars in assets.
 
  - losses don't feature an attacker or 
- - security backfires one person at a time, and so loss events lack the human scale of breaches or ransomeware attacks
+ - security backfires one person at a time, and so loss events lack the human scale of breaches or ransomware attacks
  - security-induced losses are considered accidents, with their cause attributed to their victims, and so there's no bogeyman to expose or moral lesson
  - 
  - 
